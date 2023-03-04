@@ -21,19 +21,28 @@ Here are some ideas to get you started:
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg"/>
 
 <br />
-<br />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=welcome+to+my+personal+repository..&hearts;++;I+am+Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
 
 
 <a href="https://app.daily.dev/jamaalAbdirahem"><img src="https://api.daily.dev/devcards/e700830eca484f5c989853f8a3a5133d.png?r=ktu" width="400" alt="Jamaal Abdirahem's Dev Card" align="right"/>
 </a>
 
+## <picture><img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif?raw=true" width = 50px></picture> **About me**
+
+<br>
+
 ### Hi, I'm 𝐉𝐚𝐦𝐚𝐚𝐥 𝐀𝐛𝐝𝐢𝐫𝐚𝐡𝐞𝐦, a passionate 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝐬𝐨𝐦𝐚𝐥𝐢𝐚!
-- 🔭 I’m currently working with Html, Css, Javascript, Tailwindcss.
-- 🌱 I’m currently learning React-js & building Projects in public.
-- 👯 I’m looking to collaborate with people with Amazing Ideas.
+-   I’m currently working with Html, Css, Javascript, Tailwindcss.
+-   I’m currently learning React-js & building Projects in public.
+-   I’m looking to collaborate with people with Amazing Ideas.
 - ⚡ Fun fact: I love connecting & socializing with new people.
-- 💬 Ask me about **frontend**
-- 📫 How to reach me **usamecabdi1@gmail.com**
+-   Ask me about **frontend**
+-   How to reach me **usamecabdi1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,6 +51,9 @@ Here are some ideas to get you started:
 <a href="https://gh.com/https://www.facebook.com/jamaal-Abdirahem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://www.github.com/jamaal-Abdirahem" height="30" width="40" /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 ### Front End Skills :
 <!--[JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -60,8 +72,10 @@ Here are some ideas to get you started:
 <br />
 
 <br />
+<br><br>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
+ 
 
 <p align="left">
 
@@ -71,12 +85,13 @@ Here are some ideas to get you started:
 <br />
 [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamaal-Abdirahem&theme=radical&hide_border=true&layout=compact)](https://github.com/Jamaal-Abdirahem/github-readme-stats)
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=Jamaal-Abdirahem&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Jamaal-Abdirahem&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
 
 </p>
 
+## <b> Thanks for the visit!</b><img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/handshake.gif?raw=true" width ="80">
+<br>
 
-## ⭐ Thanks for the visit!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jamaal-Abdirahem&theme=radical)](https://github.com/jamaal-Abdirahem)
 <br />
