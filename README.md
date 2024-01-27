@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg"/>
 
-<br />
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=welcome+to+my+personal+repository..&hearts;++;I+am+Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/jamal252"><img src="https://api.daily.dev/devcards/71cb363081084de29f5ce04b237296ca.png?r=r3w" width="200" align ="right" alt="Jamaal Abdirahim Mohamed's Dev Card"/></a>
 <br>
+
+
 ## <picture><img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 <br>
