@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://app.daily.dev/jamal252"><img src="https://api.daily.dev/devcards/71cb363081084de29f5ce04b237296ca.png?r=r3w" width="200" alt="Jamaal Abdirahim Mohamed's Dev Card"/></a>
+<a href="https://app.daily.dev/jamal252"><img src="https://api.daily.dev/devcards/71cb363081084de29f5ce04b237296ca.png?r=r3w" width="200" align ="right" alt="Jamaal Abdirahim Mohamed's Dev Card"/></a>
 
 ## <picture><img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif?raw=true" width = 50px></picture> **About me**
 
